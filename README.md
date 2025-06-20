@@ -60,21 +60,22 @@ The main dashboard where users can navigate to add money, send money, or view re
 ---
 
 ### 2. Add Money Screen  
-![Add Money Screen]([screenshots/AddMoneyScreen.png](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreen.png)  
+![Add Money Screen](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreen.png)  
 The screen to input the amount to add and select the funding source.
 
 ---
 
 ### 3. Add Money Details  
-![Add Money Detail 1]([screenshots](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots)/AddMoneyScreenDetail-1.png)  
-![Add Money Detail 2]([screenshots](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots)/AddMoneyScreenDetail-2.png)  
+![Add Money Detail 1](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreenDetail-1.png)  
+
+![Add Money Detail 2](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreenDetail-2.png)  
 These screens provide detailed options and confirmation inputs before processing the money addition.
 
 ### 4. Send To Bank Screen  
-![Send To Bank Screen]([screenshots](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots)/SendToBankScreen.png)  
+![Send To Bank Screen](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/SendToBankScreen.png)  
 Allows the user to transfer money to a linked bank account, including recipient selection and amount input.
 
 ### 5. Confirmation Screen  
-![Confirmation Screen](screenshots/ConfirmationScreen.png)  
+![Confirmation Screen](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/ConfirmationScreen.png)  
 Final confirmation page showing transfer details and success message.
 
