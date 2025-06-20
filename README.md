@@ -54,7 +54,7 @@ C:.
 ## Screens & Features
 
 ### 1. Home Screen  
-![Home Screen](screenshots/HomeScreen.png)  
+![Home Screen](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreen.png)  
 The main dashboard where users can navigate to add money, send money, or view recent transfers.
 
 ---
