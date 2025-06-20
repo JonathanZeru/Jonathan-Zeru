@@ -55,29 +55,39 @@ C:.
 
 ### 1. Home Screen  
 ![Home Screen]
-<img src="https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/HomeScreen.png" alt="Add Money Screen" width="400" />
+<img src="https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/HomeScreen.png" alt="Add Money Screen" width="400" height="1000"/>
 
 The main dashboard where users can navigate to add money, send money, or view recent transfers.
 
 ---
 
 ### 2. Add Money Screen  
-![Add Money Screen](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreen.png)  
+![Add Money Screen]()  
+
+<img src="https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreen.png" alt="Add Money Screen" width="400" height="1000"/>
 The screen to input the amount to add and select the funding source.
 
 ---
 
 ### 3. Add Money Details  
-![Add Money Detail 1](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreenDetail-1.png)  
+![Add Money Detail 1]
 
-![Add Money Detail 2](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreenDetail-2.png)  
+<img src="https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreenDetail-1.png" alt="Add Money Screen" width="400" height="1000"/>
+
+![Add Money Detail 2]  
+<img src="https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/AddMoneyScreenDetail-2.png" alt="Add Money Screen" width="400" height="1000"/>
+
 These screens provide detailed options and confirmation inputs before processing the money addition.
 
-### 4. Send To Bank Screen  
-![Send To Bank Screen](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/SendToBankScreen.png)  
+### 4. Send To Bank Screen 
+
+![Send To Bank Screen]
+<img src="https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/SendToBankScreen.png" alt="Add Money Screen" width="400" height="1000"/>
+
 Allows the user to transfer money to a linked bank account, including recipient selection and amount input.
 
 ### 5. Confirmation Screen  
-![Confirmation Screen](https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/ConfirmationScreen.png)  
-Final confirmation page showing transfer details and success message.
+![Confirmation Screen]
+<img src="https://github.com/JonathanZeru/Jonathan-Zeru/blob/main/app/src/main/java/com/mpesa/myapplication/screenshots/ConfirmationScreen.png" alt="Add Money Screen" width="400" height="1000"/>
+
 
